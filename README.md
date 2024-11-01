@@ -2,4 +2,4 @@
 
 Recitation 8 - Git Practice in Intellij
 
-Name: 
+Name: Thrisna Singh
